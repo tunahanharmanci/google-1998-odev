@@ -1,0 +1,47 @@
+
+div {
+  width: 100%; /* istediğiniz genişliği belirleyin */
+  margin: 0 auto; /* üst-alt ortalamayı kaldırın, yatayda ortalamak için */
+  text-align: center; /* içeriği yatayda ortala */
+}
+
+
+.container {
+    width: 900px;
+    height: 80px;
+    margin: 5px auto 0 auto;
+
+}
+
+.content{
+    width: 1000px;
+    float: middle;
+}
+
+.card-1{
+    width: 29%;
+    height: 45px;
+    float: left;
+    padding: 3%;
+    margin-right: 0.5%;
+    background-color: #7EE5DA;
+    
+}
+
+.card-2{
+    width: 15%;
+    height: 45px;
+    float: left;
+    padding: 3%;
+    margin-right: 0.5%;
+    background-color: #7EE5DA;
+}
+
+.card-3{
+    width: 29%;
+    height: 45px;
+    float: left;
+    padding: 3%;
+    margin-right: 0.5%;
+    background-color: #7EE5DA;
+}
